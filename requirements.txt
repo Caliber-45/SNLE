@@ -1,0 +1,2 @@
+# This application relies completely on Python's core Standard Libraries.
+# No external packages are necessary.
