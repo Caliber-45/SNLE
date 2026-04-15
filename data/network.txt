@@ -1,1 +1,11 @@
+NODES
+A B C D
 
+EDGES
+A B 4
+A C 2
+B D 5
+
+PACKAGES
+P1 8 D 2.5
+P2 5 C 3.0
